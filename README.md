@@ -27,5 +27,5 @@
  ## 📈 GitHub Stats 
 <p>
   <img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=a7med3bd&theme=onedark"/>
-  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3bd&layout=compact&theme=onedark"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a7med3bd)](https://github.com/anuraghazra/github-readme-stats)
 </p>
